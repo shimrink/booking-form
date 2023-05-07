@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import styled from 'styled-components'
-import { StateContext } from '../../App'
+import { StateContext } from '../App'
 
 const Wrap = styled.div`
 	display: flex;

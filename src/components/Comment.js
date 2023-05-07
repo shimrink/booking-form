@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { StateContext } from '../../App'
+import { StateContext } from '../App'
 
 const Comment = () => {
 	const { state, dispatch } = useContext(StateContext)
