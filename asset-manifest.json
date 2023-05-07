@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.77a7dcb9.js",
-    "index.html": "/index.html",
-    "main.77a7dcb9.js.map": "/static/js/main.77a7dcb9.js.map"
+    "main.js": "/booking-form/static/js/main.7d4f2f23.js",
+    "index.html": "/booking-form/index.html",
+    "main.7d4f2f23.js.map": "/booking-form/static/js/main.7d4f2f23.js.map"
   },
   "entrypoints": [
-    "static/js/main.77a7dcb9.js"
+    "static/js/main.7d4f2f23.js"
   ]
 }
